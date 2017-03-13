@@ -1,13 +1,13 @@
 {
-	"name": "olvlvl/apipgen-theme-icanboogie",
-	"description": "ICanBoogie theme for ApiGen",
-	"homepage": "https://github.com/olvlvl/apipgen-theme-icanboogie/",
-	"license": "MIT",
-	"authors": [
-		{ "name": "Tomáš Votruba", "email": "tomas.vot@gmail.com" },
-		{ "name": "Olivier Laviale", "homepage": "https://github.com/olvlvl" }
-	],
-	"require": {
-		"latte/latte": "^2.4"
-	}
+    "name": "apigen/theme-icanboogie",
+    "description": "ICanBoogie theme for ApiGen",
+    "homepage": "https://github.com/apigen/ThemeIcanboogie/",
+    "license": "MIT",
+    "authors": [
+        { "name": "Tomáš Votruba", "email": "tomas.vot@gmail.com" },
+        { "name": "Olivier Laviale", "homepage": "https://github.com/olvlvl" }
+    ],
+    "require": {
+        "latte/latte": "^2.4"
+    }
 }
